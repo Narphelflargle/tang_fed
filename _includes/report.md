@@ -1,13 +1,14 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales libero sit amet sapien accumsan bibendum. Quisque vestibulum ultricies sapien sed porta. Proin ipsum tellus, facilisis eget luctus sed, sollicitudin in massa. Mauris eu semper neque. Cras tempor suscipit odio sit amet maximus. Nunc ante lectus, dictum non fringilla sed, aliquet at odio. Etiam ut lorem eu est mollis semper. Vivamus porttitor luctus lacinia.
+In 2011, PEO IWS 5 established an approach to innovation new to the Navy and has ignited warfighter creativity to deliver solutions.
+The initiative, dubbed TANG, employs a customized suite of Applied Design Methodologies to tackle human-centered challenges within the DoD.
 
 ## Sections of information
 {: .grid-list}
 
 
-* ### Planning
+* ### TANG Workshop
   {: .clipboard-icon }
 
-  Aliquam eget bibendum lacus. Aenean venenatis dictum turpis, et scelerisque tellus semper vel. Phasellus tempus pellentesque neque, quis posuere est aliquet eu. Nullam faucibus porta dui, non dapibus orci facilisis vitae. Curabitur a convallis purus, id rutrum dui. Nulla viverra ex in rhoncus ornare.
+  Following months of research and discovery, TANG hosts an intense Design Event that brings together operators, stakeholders, technologists, and strategic partners to co-create low fidelity prototype solutions to the challenge opportunities.
 
 * ### Government
   {: .federal-icon }
