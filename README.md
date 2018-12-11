@@ -1,6 +1,8 @@
-# federalist-landing-page-template
-[Federalist](https://federalist.18f.gov) is an open source web publishing platform for the United States federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting.
+<p align="center" span="font-size:1.5em;">TANG (Built on Federalist.18f.gov)</p>
 
-The team at 18F builds and maintains it as a hosted service available to federal government agencies.
+[Tactical Advancements for the Next Generation](http://www.secnav.navy.mil/innovation/HTML_Pages/2017/11/TANG.htm) established an approach to innovation new to the Navy and has ignited warfighter creativity to deliver solutions. The initiative, dubbed TANG, employs a customized suite of Applied Design Methodologies to tackle human-centered challenges within the DoD.
 
-Using a site like this, you can host a landing page for a report, information about a new program, or ways the public can get in touch.
+<p align="center">
+<a href="http://www.youtube.com/watch?v=i9kxffGWU8M" target="_blank">
+  <img src="http://img.youtube.com/vi/i9kxffGWU8M/0.jpg" alt="TANG_OG" width="480" height="360" border="10" />
+  </p>
