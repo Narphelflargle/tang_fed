@@ -1,10 +1,10 @@
-Federalist is an [open source] web publishing platform for the United States federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting.
+[TANG] takes on the toughest challenges through [Human Centered Design] and our proven process of divergent ideation and convergent prototyping.
 
-The team at [18F] builds and maintains it as a hosted service available to federal government agencies.
+We bring together today's operators, a diverse group of stakeholders, and technologists to create powerful solutions.
 
 Using a site like this, you can host a landing page for a [report](#report),
 information about a new program, or ways the public
 can [get in touch](#contact).
 
-[open source]: https://github.com/18F/federalist
-[18F]: https://18f.gsa.gov/
+[Human Centered Design]: https://www.ideo.com/post/design-kit
+[TANG]: http://www.secnav.navy.mil/innovation/HTML_Pages/2017/11/TANG.htm
