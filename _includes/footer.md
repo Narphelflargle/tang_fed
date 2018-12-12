@@ -3,7 +3,7 @@ it is in the [public domain][license].
 
 [Suggest an edit]
 
-[![18F]({{ site.baseurl }}/img/logos/18f-black.svg)][18F]
+[![18F]({{ site.baseurl }}/img/favicons/Blank%20TANG%20Logo.png)][18F]
 
 
 [18F]: https://18f.gsa.gov
